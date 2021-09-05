@@ -1,0 +1,8 @@
+POST http://localhost:8081/api/register
+
+{
+    "first_name" : "daniel",
+    "last_name" : "quaresma",
+    "email": "morellianogm@gmail.com",
+    "password": "saopaulo123"
+}
